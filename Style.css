@@ -27,8 +27,8 @@
     margin-top: 7px;
     text-align: center;
 }
-@media only screen and (max-width:620px){
-    .menu .main .right{
+@media screen and (  max-width:600px ) {
+    .menu, .main, .right {
         width: 100%;
     }
     
